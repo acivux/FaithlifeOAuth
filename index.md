@@ -1,6 +1,6 @@
 # Faithlife.OAuth
 
-**Faithlife.OAuth** description
+**Faithlife.OAuth** generates OAuth 1.0 signatures for web service requests.
 
 ## Installation
 
